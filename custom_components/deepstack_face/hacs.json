@@ -1,0 +1,8 @@
+{
+  "name": "Deepstack Face Custom Integration",
+  "content_in_root": true,
+  "domain": "deepstack_face",
+  "country": "ES",
+  "homeassistant": "2021.12.0",
+  "render_readme": true
+}
